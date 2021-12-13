@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5O/u6bmZXMABzTgjSif8zrohFX17KvnLfEpnBj7MQ+ey2GgmqPnBatZDKnQMw5cglMxJ30eL/O6CqE4yV7fJyQ==",
+  "success": true,
+  "projectFilePath": "/home/breno/Sync/Documents/fsharp/aoc-2021/day1/day1.fsproj",
+  "expectedPackageFiles": [
+    "/home/breno/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

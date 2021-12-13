@@ -19,8 +19,8 @@ let solution' xs =
 
 let readIntList filename =
     System.IO.File.ReadLines(filename)
+    |> Seq.map (fun x -> int x)
     |> Seq.toList
-    |> List.map(fun x -> int x)
 
 
 let input = readIntList "input.txt"
